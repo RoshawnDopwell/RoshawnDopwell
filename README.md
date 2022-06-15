@@ -2,4 +2,3 @@
 <h2>👨‍💻 Cyber Security Projects Projects:</h2>
   
 
-  <h2>👨‍💻 AWS Projects;</h2>
